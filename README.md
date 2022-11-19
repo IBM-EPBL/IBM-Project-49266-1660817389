@@ -7,9 +7,11 @@ TEAM MEMBERS: MUTHUBHARATHI J,RAHAMED SUGAINA,SURIYALAKSHMI V,VIJAYA SUMATHI S.
 
 The project deals on building an application which helps the specially challenged people to communicate between them and the common people. Communication between a person with hearing/speech impairment and a normal person has always been a challenging task. This application tries to reduce the barrier of communication by developing an assistive application for specially challenged people.
 
-images imagesimages
+![image](https://user-images.githubusercontent.com/113815658/202839421-fd71903c-a231-4cfe-91f8-9f130bd581ea.png)
 
-images
+
+![image](https://user-images.githubusercontent.com/113815658/202839472-8ff0cc6e-6a28-4e52-aeaa-6770396896a0.png)
+
 
 1.]IDEATION PHASES LINKS
 
